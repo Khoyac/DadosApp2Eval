@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167634595593",
+    "firebase_url": "https://dadosapp-d394b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dadosapp-d394b",
+    "storage_bucket": "dadosapp-d394b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167634595593:android:ca29f32ca16af54deb6dd8",
+        "android_client_info": {
+          "package_name": "com.khoyac.dadosapp2eval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167634595593-fbgfb0h4js60gvelv982jlr2h3fobe92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrz8aP2018_W6_Pkba7xBTr3iiobrymwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167634595593-fbgfb0h4js60gvelv982jlr2h3fobe92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
